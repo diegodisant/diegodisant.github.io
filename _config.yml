@@ -1,0 +1,5 @@
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: "Diego De Santiago (@diegodisant)"
+description: "Diego has over 6+ years of experience in Software Engineering/Development, mainly focused in E-Commerce and Entertainment industries. He has experience Develop High Quality Software and Helping/Leading teams around 5 engineers. Diego is dedicated to find the best solution complexity-time relation, lead and transfer knowledge to the team, and help always he can. His career has been dedicated to Backend development."
